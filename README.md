@@ -5,5 +5,6 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 # Projects
 
 - [Coral Bleaching Prediction](https://github.com/jamesbconner/MADS699)
--   Description: Prediction of coral bleaching worldwide
--   
+  Description: Prediction of coral bleaching worldwide
+  
+- 
